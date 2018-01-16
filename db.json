@@ -1,0 +1,40 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "capital": "Canberra"
+    },
+    {
+      "id": 2,
+      "name": "Bangladesh",
+      "capital": "Dhaka"
+    }
+  ],
+  "employees": [
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "id": 4,
+      "first_name": "John",
+      "last_name": "Smith",
+      "email": "john@codingthesmartway.com"
+    },
+    {
+      "first_name": "Ariz",
+      "last_name": "Haque",
+      "email": "ariz@gmail.com",
+      "id": 5
+    }
+  ]
+}
